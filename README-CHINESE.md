@@ -1,0 +1,1 @@
+Huafang Chinese-first balanced edition. Removed repeated China labels and country/globe graphics. Preserved Chinese navigation and company name. Product visuals are illustrative; verify technical claims and photos before publication.

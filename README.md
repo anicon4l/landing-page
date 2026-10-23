@@ -1,1 +1,1 @@
-# landing-page
+Huafang Technology Group — V14 China corporate redesign. Open index.html. All pages static, GitHub Pages compatible. The website does not make verified factory-ownership claims or invent a street address. Factory and product machinery images remain illustrative and must be replaced with approved photographs before publication as actual Huafang facilities/equipment. The contact form opens an email application; it does not send email from a server. No public prices.\n
