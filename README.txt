@@ -1,1 +1,0 @@
-Upload all files and the images folder to public_html. Do not delete Microsoft 365 DNS records. Footer: © 2025 Huafang Technology Group. All Rights Reserved.
